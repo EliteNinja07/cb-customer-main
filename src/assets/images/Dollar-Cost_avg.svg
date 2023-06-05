@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 768 440" style="enable-background:new 0 0 768 440;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B8C9C8;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#F46C3D;}
+	.st3{fill:#FFD200;}
+	.st4{fill:#2BBF7F;}
+	.st5{fill:#0062FF;}
+	.st6{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st7{opacity:0.69;fill:#0A202D;}
+</style>
+<rect class="st0" width="768" height="440"/>
+<rect x="174" y="149.2" class="st1" width="419.3" height="239.7"/>
+<rect x="83.5" y="169.8" class="st1" width="90.5" height="186.1"/>
+<rect x="593.4" y="170.7" class="st1" width="79.2" height="127.8"/>
+<rect x="174" y="50.9" width="419.3" height="26"/>
+<circle class="st2" cx="187.1" cy="63.9" r="3.6"/>
+<rect x="174" y="76.9" class="st3" width="419.3" height="71.4"/>
+<circle class="st3" cx="198.1" cy="63.9" r="3.6"/>
+<circle class="st4" cx="209.2" cy="63.9" r="3.6"/>
+<polygon class="st2" points="593.4,148.3 593.4,133 174,87.3 174,148.3 "/>
+<path class="st5" d="M268.7,148.3h172.9c16.8-19.2,27.2-44.1,28.2-71.4H240.5C241.5,104.2,251.9,129.1,268.7,148.3z"/>
+<path d="M268.7,148.3h172.9c7.7-8.8,14.1-18.8,18.8-29.7L242.6,94.8C246.5,115,255.7,133.4,268.7,148.3z"/>
+<line class="st6" x1="174" y1="208" x2="593.4" y2="208"/>
+<line class="st6" x1="174" y1="267.8" x2="593.4" y2="267.8"/>
+<line class="st6" x1="174.3" y1="327.5" x2="593.7" y2="327.5"/>
+<line class="st6" x1="294.2" y1="388.9" x2="294.2" y2="148.3"/>
+<line class="st6" x1="355.2" y1="388.9" x2="355.2" y2="148.3"/>
+<line class="st6" x1="413.7" y1="388.9" x2="413.7" y2="148.3"/>
+<line class="st6" x1="474.7" y1="388.9" x2="474.7" y2="148.3"/>
+<line class="st6" x1="234" y1="388.9" x2="234" y2="208"/>
+<line class="st6" x1="533.2" y1="328.7" x2="533.2" y2="148.3"/>
+<circle class="st3" cx="384.4" cy="358.2" r="23.6"/>
+<polygon class="st1" points="381.3,367.1 373.9,359.7 376.2,357.4 381.3,362.5 393.1,350.7 395.4,353.1 "/>
+<circle class="st3" cx="384.4" cy="298.5" r="23.6"/>
+<polygon class="st1" points="381.3,307.4 373.9,299.9 376.2,297.6 381.3,302.8 393.1,291 395.4,293.3 "/>
+<circle class="st3" cx="384.4" cy="238.5" r="23.6"/>
+<polygon class="st1" points="381.3,247.5 373.9,240 376.2,237.7 381.3,242.8 393.1,231 395.4,233.4 "/>
+<circle class="st3" cx="384.4" cy="178.2" r="23.6"/>
+<polygon class="st1" points="381.3,187.1 373.9,179.6 376.2,177.3 381.3,182.5 393.1,170.7 395.4,173 "/>
+<rect x="83.5" y="147.3" width="90.5" height="22.5"/>
+<circle class="st2" cx="94.9" cy="158.5" r="3.1"/>
+<circle class="st3" cx="104.4" cy="158.5" r="3.1"/>
+<circle class="st4" cx="114" cy="158.5" r="3.1"/>
+<rect x="83.5" y="195.2" class="st5" width="90.5" height="35.9"/>
+<rect x="101.3" y="247.5" class="st2" width="72.8" height="60"/>
+<rect x="101.3" y="323.8" class="st3" width="72.8" height="32"/>
+<rect x="147.5" y="169.8" class="st0" width="26.5" height="186"/>
+<rect x="147.5" y="323.8" width="26.5" height="32"/>
+<rect x="147.5" y="247.5" width="26.5" height="60"/>
+<rect x="147.5" y="195.2" width="26.5" height="35.9"/>
+<circle class="st3" cx="110.8" cy="182.5" r="9.7"/>
+<rect x="593.4" y="147.3" width="79.2" height="23.4"/>
+<rect x="593.4" y="190.3" class="st2" width="61.9" height="57.1"/>
+<rect x="593.4" y="170.7" class="st0" width="25" height="127.8"/>
+<rect x="593.4" y="190.3" width="25" height="57.1"/>
+<circle class="st7" cx="384" cy="220" r="101.3"/>
+<polygon class="st1" points="415.3,220 352.7,183.9 352.7,256.1 "/>
+</svg>

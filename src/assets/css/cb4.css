@@ -1,0 +1,17 @@
+.v1ykd6ma {
+  overflow: auto;
+}
+.sxaqrl3 {
+  animation: StatusContentFadeIn-sxaqrl3 0.75s ease 0.6s 1 normal forwards
+    running;
+  opacity: 0;
+  text-align: center;
+}
+@keyframes StatusContentFadeIn-sxaqrl3 {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

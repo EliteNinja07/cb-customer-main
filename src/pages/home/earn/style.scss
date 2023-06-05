@@ -1,0 +1,73 @@
+.earn-c {
+  .earn-l-c {
+    width: calc(100% - 420px - 1.5rem);
+    flex-wrap: wrap;
+  }
+  .earn-r-c {
+    width: 420px;
+    margin-left: 1.5rem;
+  }
+  tbody {
+    tr {
+      &:last-child {
+        td {
+          border: none;
+        }
+      }
+    }
+  }
+}
+.sm-ranking-btn-c,
+.sm-ranking-close-btn {
+  display: none !important;
+}
+// 小于1300px平板
+@media screen and (max-width: 1300px) {
+  .earn-c {
+    .earn-l-c {
+      width: 100%;
+    }
+    .earn-r-c {
+      width: 100%;
+      margin-top: 24px;
+      margin-left: 0;
+    }
+  }
+}
+// 小于1000px平板
+@media screen and (max-width: 1000px) {
+  .earn-c {
+    .earn-l-c {
+      width: 100%;
+    }
+    .earn-r-c {
+      width: 100%;
+      margin-left: 0;
+      min-width: 100%;
+    }
+  }
+}
+// 小于600px手机
+@media screen and (max-width: 768px) {
+  .earn-c {
+    padding-bottom: 2rem;
+    .earn-l-c {
+      width: 100%;
+    }
+    .earn-r-c {
+      width: 100%;
+      margin-left: 0;
+      min-width: 100%;
+    }
+  }
+  .sm-ranking-btn-c {
+    display: flex !important;
+    position: fixed;
+    bottom: 2rem;
+    right: 1rem;
+    z-index: 100;
+  }
+  .sm-ranking-close-btn {
+    display: flex !important;
+  }
+}

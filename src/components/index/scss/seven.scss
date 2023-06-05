@@ -1,0 +1,28 @@
+.seven-items-c {
+  width: 48%;
+  height: 100%;
+}
+.seven-items-two-c,
+.seven-items-two-label-c {
+  position: relative;
+  top: -230px;
+}
+.seven-items-two-c {
+  padding-right: 2%;
+}
+.seven-items-two-label-c {
+  &:last-child {
+    padding-left: 2%;
+  }
+}
+
+// 小于1000px平板
+@media screen and (max-width: 600px) {
+  .seven-items-two-c {
+    width: 100%;
+    padding: 0 1.8rem;
+  }
+  .seven-items-c:last-child {
+    padding-left: 0;
+  }
+}

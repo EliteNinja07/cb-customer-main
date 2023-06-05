@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 57 57" style="enable-background:new 0 0 57 57;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B8C9C8;}
+	.st1{fill:#1652F0;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#05143C;}
+</style>
+<path class="st0" d="M53.4,0H14.2v57h39.2V0z"/>
+<path class="st1" d="M56.9,24.9H10.6v7.1h46.3V24.9z"/>
+<path class="st1" d="M53.4,24.9H14.2v7.1h39.2V24.9z"/>
+<path class="st2" d="M49.8,19.6H17.8v1.8h32.1V19.6z"/>
+<path class="st3" d="M49.8,27.6H17.8v1.8h32.1V27.6z"/>
+<rect x="17.8" y="14.2" class="st2" width="32.1" height="1.8"/>
+<rect x="17.8" y="3.6" class="st2" width="32.1" height="1.8"/>
+<rect x="17.8" y="8.9" class="st2" width="32.1" height="1.8"/>
+<rect x="17.8" y="35.6" class="st1" width="32.1" height="1.8"/>
+<rect x="17.8" y="41" class="st1" width="32.1" height="1.8"/>
+<rect x="17.8" y="51.7" class="st1" width="32.1" height="1.8"/>
+<rect x="17.8" y="46.3" class="st1" width="32.1" height="1.8"/>
+<path d="M0,35.7V21.6l7.1,7.1L0,35.7z"/>
+</svg>

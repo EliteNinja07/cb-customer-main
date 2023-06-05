@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 199 188.3"  xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000084520578389000788870000015959342095017125052_);}
+	.st2{fill:url(#SVGID_00000038405217276922257000000010129628752985475509_);}
+	.st3{fill:none;stroke:url(#SVGID_00000057862669999939562930000013478576371238801571_);stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#234DE1;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="103.6203" y1="99.4184" x2="232.994" y2="250.651">
+	<stop  offset="0" style="stop-color:#4F9BFB"/>
+	<stop  offset="0.4909" style="stop-color:#234DE1"/>
+</linearGradient>
+<path class="st0" d="M99.5,94.6L99.5,94.6L199,78.7L136.4,0L36.6,15.4l0.7,0.8L0,109.7l61.9,78.7l0,0l99.8-14.7L199,78.7L99.5,94.6
+	L99.5,94.6z"/>
+<linearGradient id="SVGID_00000078762705034580703950000000749908157227334806_" gradientUnits="userSpaceOnUse" x1="31.1857" y1="77.7817" x2="153.983" y2="240.0549">
+	<stop  offset="0" style="stop-color:#86DEFF"/>
+	<stop  offset="0.662" style="stop-color:#234DE1"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000078762705034580703950000000749908157227334806_);" d="M-0.1,109.8l36.7-94.3l62.8,79.2
+	l-37.6,93.8L-0.1,109.8z"/>
+<linearGradient id="SVGID_00000076599256717172638170000005926879924296269232_" gradientUnits="userSpaceOnUse" x1="36.4808" y1="47.3091" x2="198.8917" y2="47.3091">
+	<stop  offset="9.361287e-03" style="stop-color:#54C4FD"/>
+	<stop  offset="0.9996" style="stop-color:#2878F3"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000076599256717172638170000005926879924296269232_);" d="M136.3,0L36.5,15.5l62.8,79.1l99.6-15.8
+	L136.3,0z"/>
+<linearGradient id="SVGID_00000049183830456420594070000003174080753176254395_" gradientUnits="userSpaceOnUse" x1="3.9511" y1="40.0698" x2="96.6385" y2="162.5537">
+	<stop  offset="0" style="stop-color:#86DEFF"/>
+	<stop  offset="0.662" style="stop-color:#234DE1"/>
+</linearGradient>
+<polyline style="fill:none;stroke:url(#SVGID_00000049183830456420594070000003174080753176254395_);stroke-miterlimit:10;" points="
+	36.5,15.5 99.3,94.6 61.8,188.4 "/>
+<line class="st4" x1="198.9" y1="78.8" x2="99.3" y2="94.6"/>
+</svg>

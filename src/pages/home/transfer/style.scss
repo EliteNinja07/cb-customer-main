@@ -1,0 +1,46 @@
+.trans-l-c {
+  width: calc(100% - 474px);
+}
+.trans-r-c {
+  width: 450px;
+  margin-left: 24px;
+}
+.tranTabDefault {
+  &:nth-child(2) {
+    border-right: 1px solid #b2b2b238;
+    border-left: 1px solid #b2b2b238;
+  }
+}
+
+// 小于1600px平板
+@media screen and (min-width: 1600px) {
+  .trans-l-c {
+    width: calc(100% - 474px);
+  }
+  .trans-r-c {
+    width: 400px;
+  }
+}
+// 小于1599px平板
+@media screen and (max-width: 1599px) {
+  .trans-r-c,
+  .trans-l-c {
+    width: 100%;
+  }
+  .trans-r-c {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}
+
+// 小于600px手机
+@media screen and (max-width: 600px) {
+  .trans-r-c,
+  .trans-l-c {
+    width: 100%;
+  }
+  .trans-r-c {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}

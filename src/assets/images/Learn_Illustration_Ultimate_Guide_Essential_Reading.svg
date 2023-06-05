@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 768 439" style="enable-background:new 0 0 768 439;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B8C9C8;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FFD200;}
+	.st3{fill:#0062FF;}
+	.st4{fill:#2BBF7F;}
+	.st5{fill:#F46C3D;}
+	.st6{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<rect class="st0" width="768" height="439"/>
+<rect x="256.2" y="30.9" class="st1" width="256.5" height="373.9"/>
+<rect x="67.1" y="99.6" class="st1" width="122" height="239"/>
+<rect x="67.1" y="99.6" width="122" height="23.5"/>
+<rect x="80.6" y="245.4" class="st0" width="63" height="9.6"/>
+<rect x="80.6" y="263.7" class="st0" width="94.4" height="9.6"/>
+<rect x="80.9" y="282" class="st0" width="63" height="9.6"/>
+<rect x="80.9" y="300.3" class="st0" width="94.4" height="9.6"/>
+<rect x="80.9" y="136.9" class="st2" width="94.4" height="94.4"/>
+<polygon class="st3" points="175.3,136.9 80.9,136.9 80.9,208.7 115.1,173.2 143.5,201.6 175.3,169.6 "/>
+<circle cx="143.5" cy="201.6" r="7"/>
+<rect x="266.8" y="104.2" class="st4" width="233.6" height="97.4"/>
+<circle cx="115.8" cy="172.8" r="7"/>
+<rect x="256.2" y="30.9" width="256.5" height="33"/>
+<circle class="st5" cx="272.8" cy="47.4" r="4.6"/>
+<circle class="st2" cx="286.8" cy="47.4" r="4.6"/>
+<circle class="st4" cx="300.8" cy="47.4" r="4.6"/>
+<rect x="268.2" y="77.8" width="104" height="12.1"/>
+<rect x="292.6" y="123" width="62.2" height="62.2"/>
+<rect x="303.7" y="133.6" class="st3" width="14.2" height="14.2"/>
+<rect x="303.7" y="158.6" class="st5" width="14.2" height="14.2"/>
+<rect x="329.2" y="158.6" class="st1" width="14.2" height="14.2"/>
+<rect x="329.2" y="133.6" class="st2" width="14.2" height="14.2"/>
+<rect x="414" y="121.9" width="62.2" height="62.2"/>
+<rect x="425.1" y="132.4" class="st3" width="14.2" height="14.2"/>
+<rect x="425.1" y="157.4" class="st2" width="14.2" height="14.2"/>
+<rect x="450.6" y="157.4" class="st3" width="14.2" height="14.2"/>
+<rect x="450.6" y="132.4" class="st1" width="14.2" height="14.2"/>
+<line class="st6" x1="354.8" y1="139.5" x2="415.3" y2="139.5"/>
+<line class="st6" x1="354.8" y1="153" x2="415.3" y2="153"/>
+<line class="st6" x1="354.8" y1="165.7" x2="415.3" y2="165.7"/>
+<rect x="266.8" y="213" class="st0" width="221.1" height="8.6"/>
+<rect x="266.8" y="231.3" class="st0" width="196.3" height="8.6"/>
+<rect x="266.8" y="327.4" class="st0" width="221.1" height="8.6"/>
+<rect x="266.8" y="347" class="st0" width="203.2" height="8.6"/>
+<rect x="266.8" y="366.6" class="st0" width="193.6" height="8.6"/>
+<rect x="389.9" y="307.9" class="st0" width="76.7" height="8.6"/>
+<rect x="389.9" y="289.1" class="st0" width="64.8" height="8.6"/>
+<rect x="389.9" y="269.6" class="st0" width="80.1" height="8.6"/>
+<rect x="389.9" y="250.4" class="st0" width="97.9" height="8.6"/>
+<rect x="266.8" y="250.4" class="st5" width="113.2" height="66"/>
+<rect x="578.2" y="99.8" class="st1" width="123.3" height="238.6"/>
+<rect x="578.2" y="99.8" width="123.3" height="23.6"/>
+<polyline class="st7" points="277.7,305.1 292.6,290.9 303.7,300.3 322,283.4 334.7,294.3 365,263.7 "/>
+<rect x="593.1" y="137.2" class="st3" width="94.1" height="94.1"/>
+<rect x="607.1" y="195.8" class="st1" width="16.2" height="21.5"/>
+<rect x="623.3" y="180.5" width="16.2" height="36.7"/>
+<rect x="639.4" y="165.8" class="st1" width="16.2" height="51.4"/>
+<rect x="655.6" y="150.7" width="16.2" height="66.6"/>
+<rect x="593.1" y="245.1" class="st0" width="94.1" height="9.7"/>
+<rect x="593.1" y="264.2" class="st0" width="62.6" height="9.7"/>
+<rect x="593.1" y="283.3" class="st0" width="94.1" height="9.7"/>
+<rect x="593.1" y="302.5" class="st0" width="62.6" height="9.7"/>
+</svg>

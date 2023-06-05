@@ -1,0 +1,86 @@
+tbody {
+  tr {
+    &:last-child {
+      td {
+        border: none;
+      }
+    }
+  }
+}
+.assets-l-c {
+  // width: calc(1450px - 424px);
+  flex: 1;
+}
+.assets-r-c {
+  min-width: 400px;
+  margin-left: 24px;
+}
+.manyImg {
+  position: relative;
+  img {
+    position: absolute;
+    &:first-child {
+      z-index: 10;
+      margin-right: 2rem;
+    }
+    &:last-child {
+      margin-left: 0.5rem;
+      z-index: 1;
+    }
+  }
+}
+// 小于1600px平板
+@media screen and (min-width: 1600px) {
+  .assets-l-c {
+    width: calc(1360px - 474px);
+  }
+  .assets-r-c {
+    width: 400px;
+  }
+}
+// 小于1599px平板
+@media screen and (max-width: 1599px) {
+  .assets-l-c,
+  .assets-r-c {
+    width: 100%;
+  }
+  .assets-r-c {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}
+
+// 小于1300px平板
+@media screen and (max-width: 1400px) {
+  .assets-l-c,
+  .assets-r-c {
+    width: 100%;
+  }
+  .assets-r-c {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}
+
+// 小于600px手机
+@media screen and (max-width: 600px) {
+  .assets-l-c,
+  .assets-r-c {
+    width: 100%;
+  }
+  .assets-r-c {
+    min-width: 100%;
+    margin-left: 0;
+    margin-top: 24px;
+  }
+  .balance-l-c {
+    order: 2;
+    -webkit-order: 2;
+  }
+  .balance-r-c {
+    order: 1;
+    width: 100%;
+    padding-bottom: 1rem;
+    -webkit-order: 1;
+  }
+}

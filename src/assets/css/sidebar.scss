@@ -1,0 +1,42 @@
+.sidebar_list {
+  position: relative;
+  .sidebar-children-c {
+    display: none;
+    position: absolute;
+    // right: 0;
+    top: 0;
+    z-index: 1000;
+    // left: 200px;
+    padding-left: 2rem;
+    .sidebar-children-list-c {
+      max-width: 327px;
+      min-width: 240px;
+      max-height: 300px;
+      box-shadow: rgb(0 0 0 / 12%) 0px 8px 24px;
+      border-radius: 8px;
+      background: hsla(0deg, 0%, 100%, 0.7);
+      backdrop-filter: blur(3px);
+    }
+  }
+  &:hover {
+    .sidebar-children-c {
+      display: flex;
+    }
+  }
+}
+
+// 小于600px手机
+@media screen and (max-width: 600px) {
+  .sidebar_list {
+    .sidebar-children-c {
+      margin-top: 20px;
+      display: block;
+      position: relative;
+      padding-left: 0;
+      border-top: 1px solid var(--cds-colors-chakra-border-color);
+      .sidebar-children-list-c {
+        box-shadow: none;
+      }
+    }
+  }
+}

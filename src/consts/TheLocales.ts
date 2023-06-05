@@ -1,0 +1,18 @@
+export const Locales = [
+  { value: "en", label: "English" },
+  { value: "de", label: "Deutsch" },
+  { value: "es", label: "Español" },
+  { value: "fr", label: "Français" },
+  { value: "it", label: "Italiano" },
+  { value: "pt", label: "Português" },
+  { value: "ru", label: "Pусский" },
+  { value: "tr", label: "Türkçe" },
+  { value: "ar", label: "عربي" },
+  { value: "ja", label: "日本語" },
+  { value: "zh-TW", label: "繁體中文" },
+  { value: "ko", label: "한국어" },
+  { value: "id", label: "Bahasa" },
+  { value: "th", label: "ไทย" },
+  { value: "vi", label: "Tiếng Việt" },
+  { value: "hi", label: "हिन्दी" },
+];

@@ -1,0 +1,466 @@
+.kvilOX {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}
+
+.fmqQye {
+  position: relative;
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  transition: none 0s ease 0s;
+}
+
+.eCGjpA {
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  opacity: 1;
+}
+
+.hluyAx {
+  position: fixed;
+  z-index: 1001;
+  top: 80px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  pointer-events: none;
+}
+
+.kCflcB {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  min-height: var(--full-view-height, 100vh);
+  background-color: rgb(var(--gray0));
+}
+
+.jSgqsm {
+  position: absolute;
+  left: -1000px;
+}
+
+.hyVcBY {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  min-height: var(--full-view-height, 100vh);
+}
+
+.gSbAjb {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.kbkJBq {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  margin-left: 240px;
+  min-height: var(--full-view-height, 100vh);
+}
+
+.hzLLzf {
+  display: flex;
+  flex-direction: row;
+  transition: height 350ms ease 0s;
+  height: 68px;
+}
+
+.gzwmwy {
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--line);
+  position: fixed;
+  left: 0;
+  transition: top 350ms ease 0s;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  margin-left: 240px;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  min-height: 68px;
+  max-height: 68px;
+  background-color: rgb(var(--gray0));
+}
+
+.hvCriQ {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  font-size: 20px;
+  font-weight: 500;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-shrink: 0;
+  padding-right: 16px;
+  margin-bottom: 5px;
+}
+
+.gnkzwf {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: CoinbaseSans;
+}
+
+.gnULBh {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.iNbjB {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.jCnzGy {
+  cursor: pointer;
+}
+
+.gaVUrq {
+  display: flex;
+  flex-direction: row;
+}
+
+.SIxgp {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-self: center;
+}
+
+.dmgIjk {
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  width: 40px;
+  background: rgb(var(--gray5));
+  border-radius: 50%;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.gATJb {
+  height: 32px;
+  align-self: center;
+  width: 1px;
+  background: var(--line);
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.iyQLca {
+  position: fixed;
+  transition: top 350ms ease 0s;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  min-height: var(--full-view-height, 100vh);
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  z-index: 1;
+  width: 240px;
+}
+
+.iyQLca nav {
+  min-height: var(--full-view-height, 100vh);
+}
+
+.besQkt {
+  color: rgb(var(--gray60));
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: none;
+  transition: color 0.25s ease 0s;
+}
+
+.jrGlUe {
+  display: flex;
+  flex: 1 1 auto;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0 24px 5.5rem 24px;
+  background: rgba(var(--blue80), 0.03);
+}
+
+.fHwdBp {
+  display: flex;
+  flex-direction: column;
+  flex: 0 1 auto;
+  margin: 0;
+  padding: 24px 0;
+  height: 100%;
+  width: 100%;
+  max-width: 1270px;
+}
+
+.kWFqyT {
+  width: 100%;
+  padding: 0;
+  background: rgb(var(--gray0));
+  border-spacing: 0;
+  border-collapse: separate;
+  caption-side: top;
+}
+
+.igjkkt {
+  border: none;
+}
+
+.bKmDsK:first-child {
+  border-top: 1px solid 1px solid var(--line);
+}
+
+.bKmDsK {
+  border-bottom: 1px solid var(--line);
+}
+
+.jfBtrR:first-child {
+  padding-left: 32px;
+}
+
+.kdObMp {
+  padding-right: 16px;
+  color: rgb(var(--gray60));
+  font-weight: var(--cds-fontWeights-medium);
+  font-size: 14px;
+}
+
+.jfBtrR {
+  padding: 16px 48px 16px 0;
+  border-bottom: none;
+  text-align: left;
+}
+
+.gcVqXC {
+  padding: 0;
+  border: none;
+  transition: opacity 300ms ease 0s;
+  transform: translateZ(0);
+}
+
+.jHTybs {
+  background: rgb(var(--gray0));
+  user-select: none;
+  cursor: pointer;
+  animation: 0.5s ease 0s 1 normal none running jBcSpD;
+}
+
+.dfBSPB:first-child {
+  padding-left: 32px;
+}
+
+.dfBSPB {
+  padding: 14px 16px 14px 0;
+  border-top: 1px solid var(--line);
+  cursor: inherit;
+  vertical-align: middle;
+  width: 40%;
+  max-width: 40%;
+}
+
+.jcHacA {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  flex-direction: row;
+  padding: 24px 32px 16px;
+  min-height: 157px;
+}
+
+.hEQEwD {
+  font-variant: tabular-nums;
+  transition: opacity 350ms ease 0s;
+}
+
+.gJAMCP {
+  align-self: flex-start;
+  margin-top: -4px;
+  flex-shrink: 0;
+  transition: opacity 350ms ease 0s;
+}
+
+.bIEJec {
+  position: relative;
+  width: 100%;
+  height: 208px;
+}
+
+.gmwHKE {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.kUXDoo {
+  position: absolute;
+  inset: 0;
+  cursor: crosshair;
+  transition: opacity 300ms ease 0s;
+  opacity: 0;
+}
+
+.egcdbS {
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 200px;
+}
+
+.gktpwe {
+  display: inline-block;
+  padding: 12px 8px;
+  cursor: pointer;
+  background: none;
+  border-width: 0;
+}
+
+.jMosWc {
+  font-family: CoinbaseText, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--primary);
+  transition: color 200ms ease-in-out 0s;
+}
+
+.coKZEF {
+  font-family: CoinbaseText, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgb(var(--gray60));
+  transition: color 200ms ease-in-out 0s;
+}
+
+.cicsNy {
+  display: block;
+  margin: 0;
+}
+
+.bhzFYb {
+  font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  font-weight: var(--cds-fontWeights-medium);
+  line-height: 1.6;
+  color: rgb(var(--gray60));
+  transition: color 80ms ease-in-out 0s;
+}
+
+.kFFKOl {
+  display: block;
+}
+
+.fKJJVD {
+  margin: 0 8px 0 0;
+}
+
+.bVpZgp {
+  line-height: 1.3;
+  color: rgb(var(--gray100));
+  font-size: 32px;
+  font-weight: 500;
+  font-family: CoinbaseDisplay, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+}
+
+.jjwqcY {
+  width: 100%;
+  list-style: none;
+  margin: 24px 0px;
+  border-bottom: 1px solid var(--line);
+}
+
+.collapse {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  top: 0;
+  left: 0;
+  z-index: 9;
+  overflow-y: auto;
+}
+
+.side-footer {
+  padding: 40px;
+  color: rgba(91, 97, 110, 1);
+  font-size: 14px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 992px) {
+  .kbkJBq,
+  .gzwmwy {
+    margin-left: 80px !important;
+    transition: 1s all;
+  }
+  .side-container {
+    width: 87px !important;
+    transition: 1s all;
+  }
+  .side-container-nav {
+    width: 87px !important;
+    min-width: 87px !important;
+    transition: 1s all;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .kbkJBq {
+    margin-left: 0 !important;
+    transition: 1s all;
+  }
+  .gzwmwy {
+    margin-left: 0 !important;
+    padding: 0 24px !important;
+    transition: 1s all;
+  }
+  .header-icon {
+    background: none !important;
+  }
+  .collapse-side-item {
+    padding: 0 24px;
+  }
+  .collapse-side-item .side-item-title {
+    display: block !important;
+  }
+}

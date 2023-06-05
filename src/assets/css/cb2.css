@@ -1,0 +1,78 @@
+@font-face {
+  font-display: swap;
+  font-family: CoinbaseIcons;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/CoinbaseIcons-1658954688267.c6e1311d0f97a98c63f082db00f93a90.woff2)
+    format("woff2");
+}
+@font-face {
+  font-display: optional;
+  font-family: CoinbaseSans;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/CoinbaseSans-Regular.c9a6e887656f7b1014db3f1a07247ee2.woff2)
+    format("woff2");
+}
+@font-face {
+  font-display: optional;
+  font-family: CoinbaseSans;
+  font-style: normal;
+  font-weight: 500;
+  src: url(/assets/CoinbaseSans-Medium.b54c6aeed882bdf66df4e5fac9c2340e.woff2)
+    format("woff2");
+}
+@font-face {
+  font-display: optional;
+  font-family: CoinbaseDisplay;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/CoinbaseDisplay-Regular.62bf1b795c1ad225811afd9715abdc90.woff2)
+    format("woff2");
+}
+@font-face {
+  font-display: optional;
+  font-family: CoinbaseDisplay;
+  font-style: normal;
+  font-weight: 500;
+  src: url(/assets/CoinbaseDisplay-Medium.88e532b2f6f58aac7f1dbbd3b4731e92.woff2)
+    format("woff2");
+}
+@font-face {
+  font-display: optional;
+  font-family: CoinbaseText;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/CoinbaseText-Regular.d65a3b1d9255924adbeeabac46787723.woff2)
+    format("woff2");
+}
+@font-face {
+  font-display: optional;
+  font-family: CoinbaseText;
+  font-style: normal;
+  font-weight: 500;
+  src: url(/assets/CoinbaseText-Medium.d164398f71705e41d035e25101303347.woff2)
+    format("woff2");
+}
+
+*,
+:root {
+  --cds-font-fallback: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  --cds-font-display: CoinbaseDisplay, var(--cds-font-fallback);
+  --cds-font-sans: CoinbaseSans, var(--cds-font-fallback);
+  --cds-font-text: CoinbaseText, var(--cds-font-fallback);
+  --cds-font-mono: CoinbaseMono, var(--cds-font-fallback);
+}
+
+html,
+body,
+div,
+button,
+a,
+input,
+p,
+.chakra-portal {
+  font-family: var(--cds-font-sans) !important;
+}

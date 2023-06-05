@@ -1,0 +1,37 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@api/*": [
+                "src/api/*"
+            ],
+            "@assets/*": [
+                "src/assets/*"
+            ],
+            "@backendLocales/*": [
+                "src/backendLocales/*"
+            ],
+            "@common/*": [
+                "src/common/*"
+            ],
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@constants/*": [
+                "src/constants/*"
+            ],
+            "@consts/*": [
+                "src/consts/*"
+            ],
+            "@locales/*": [
+                "src/locales/*"
+            ],
+            "@pages/*": [
+                "src/pages/*"
+            ],
+            "@/*": [
+                "src/*"
+            ]
+        }
+    }
+}

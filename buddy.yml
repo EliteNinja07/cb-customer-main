@@ -1,0 +1,36 @@
+- pipeline: "main"
+  events:
+    - type: "PUSH"
+      refs:
+        - "refs/heads/main"
+  fail_on_prepare_env_warning: true
+  actions:
+    - action: "sh build.sh"
+      type: "SSH_COMMAND"
+      working_directory: "~/$BUDDY_PROJECT_NAME"
+      login: "$host_user"
+      password: "secure!kEzZ77prnf8WSDvnwnKJWg==.VVCyWpqwOoUt/vHRE5E45Q=="
+      host: "$host_ip"
+      port: "$host_port"
+      commands:
+        - "git checkout . "
+        - "git pull"
+        - "sh build.sh"
+      run_as_script: true
+- pipeline: "develop"
+  events:
+    - type: "PUSH"
+      refs:
+        - "refs/heads/develop"
+  fail_on_prepare_env_warning: true
+  actions:
+    - action: "sh build.sh"
+      type: "SSH_COMMAND"
+      working_directory: "~/$BUDDY_PROJECT_NAME"
+      login: "$dev_host_user"
+      password: "secure!IL7iXd8xvXjPCpj4wkoXBg==.iJyGJcpUUCvPK8jDPyMZag=="
+      host: "$dev_host_ip"
+      port: "$dev_host_port"
+      commands:
+        - "git checkout . && git pull && sh build.sh"
+      run_as_script: true

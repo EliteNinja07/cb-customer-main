@@ -1,0 +1,35 @@
+$primary: #0d6efd;
+.footer-fs-c {
+
+  a {
+    color: $primary;
+  }
+}
+
+@keyframes myFsBottom {
+  100% {
+    bottom: 0;
+  }
+}
+@-webkit-keyframes myFsBottom {
+  100% {
+    bottom: 0;
+  }
+}
+
+@keyframes myFsBottom_clo {
+  0% {
+    bottom: 0;
+  }
+  100% {
+    bottom: -300px;
+  }
+}
+@-webkit-keyframes myFsBottom_clo {
+  0% {
+    bottom: 0;
+  }
+  100% {
+    bottom: -300px;
+  }
+}

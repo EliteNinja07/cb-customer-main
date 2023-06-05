@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+}
+
+body {
+  padding: 0;
+  margin: 0px;
+  display: block;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+  font-family: var(--cds-font-sans) !important;
+}

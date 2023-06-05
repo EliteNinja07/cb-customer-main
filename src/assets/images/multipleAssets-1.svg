@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#56B4FC;}
+	.st1{fill:#CED2DB;}
+	.st2{fill:#0052FF;}
+	.st3{fill:#0A0B0D;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#0A0B0D;}
+</style>
+<path class="st0" d="M24,39c8.3,0,15-6.7,15-15S32.3,9,24,9S9,15.7,9,24S15.7,39,24,39z"/>
+<path class="st1" d="M24,48c4.6,0,8.2-3.7,8.2-8.2s-3.7-8.2-8.2-8.2s-8.2,3.7-8.2,8.2S19.4,48,24,48z"/>
+<path class="st2" d="M24,16.5c4.6,0,8.2-3.7,8.2-8.2S28.6,0,24,0s-8.2,3.7-8.2,8.2S19.4,16.5,24,16.5z"/>
+<path class="st3" d="M24,9c-2.8,0-5.5,0.8-7.7,2.2c1.2,3.1,4.2,5.3,7.7,5.3c3.5,0,6.5-2.2,7.7-5.3C29.4,9.7,26.7,9,24,9z M24,39
+	c2.8,0,5.5-0.8,7.7-2.2c-1.2-3.1-4.2-5.3-7.7-5.3c-3.5,0-6.5,2.2-7.7,5.3C18.6,38.3,21.3,39,24,39z"/>
+<path class="st4" d="M23,29V19h2v10H23z"/>
+<path class="st4" d="M19,23h10v2H19V23z"/>
+</svg>

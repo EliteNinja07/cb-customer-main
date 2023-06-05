@@ -1,0 +1,38 @@
+{
+  "background_color": "#1652F0",
+  "description": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency like Bitcoin, Ethereum, and more.",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "../img/favicon/favicon-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "../img/favicon/favicon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "../img/favicon/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../img/favicon/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "name": "Coinbase",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.coinbase.android"
+    }
+  ],
+  "short_name": "Coinbase",
+  "start_url": "/",
+  "theme_color": "#1652F0"
+}

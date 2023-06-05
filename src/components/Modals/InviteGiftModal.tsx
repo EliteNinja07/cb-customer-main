@@ -1,0 +1,51 @@
+import { Flex, Image, Text } from "@chakra-ui/react";
+import { FormattedMessage } from "react-intl";
+import { useNavigate } from "react-router";
+import ReferImg from "../../assets/images/confirmEmail-0.svg";
+import { PrimaryButton } from "../../common";
+
+export function InviteGiftModal({ onClose }: any) {
+  const navigate = useNavigate();
+  return (
+    <Flex flexDir="column">
+      <Flex w="full" justifyContent="center" py={5} mt={6}>
+        <Image w="190px" src={ReferImg} />
+      </Flex>
+      <Text
+        px={1}
+        w="full"
+        sx={{
+          fontSize: "1.5rem",
+          fontWeight: "400",
+          lineHeight: "1.9rem",
+          textAlign: "center",
+        }}
+      >
+        <FormattedMessage id="modal.ModalReferTitle" />
+      </Text>
+      <Text
+        px={1}
+        py={3}
+        sx={{
+          width: { base: "80%", sm: "80%", md: "90%", lg: "90%" },
+          lineHeight: "1.22rem",
+          margin: "0 auto",
+          fontSize: "0.9rem",
+          textAlign: "center",
+        }}
+      >
+        <FormattedMessage id="modal.ModalRefer" />
+      </Text>
+      <Flex justifyContent="center" pt={3} pb={7}>
+        <PrimaryButton
+          onClick={() => {
+            onClose();
+            navigate("/home/invite");
+          }}
+        >
+          <FormattedMessage id="modal.ModalReferBtn" />
+        </PrimaryButton>
+      </Flex>
+    </Flex>
+  );
+}

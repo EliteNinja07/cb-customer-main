@@ -1,0 +1,123 @@
+@-webkit-keyframes heartbeat {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    -webkit-transform: scale(0.61);
+    transform: scale(0.61);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  17% {
+    -webkit-transform: scale(0.78);
+    transform: scale(0.78);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  33% {
+    -webkit-transform: scale(0.47);
+    transform: scale(0.47);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  45% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+}
+
+@keyframes heartbeat {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    -webkit-transform: scale(0.61);
+    transform: scale(0.61);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  17% {
+    -webkit-transform: scale(0.78);
+    transform: scale(0.78);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  33% {
+    -webkit-transform: scale(0.47);
+    transform: scale(0.47);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  45% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+}
+tbody {
+  tr {
+    td {
+      padding-bottom: 1rem;
+    }
+    &:last-child {
+      td {
+        border: none;
+      }
+    }
+  }
+}
+
+.support-l-c {
+  width: calc(100% - 474px);
+}
+
+.support-r-c {
+  width: 450px;
+  margin-left: 24px;
+}
+
+// 小于1600px平板
+@media screen and (min-width: 1600px) and (max-width: 1700px) {
+  .support-l-c {
+    width: calc(100% - 424px);
+  }
+  .support-r-c {
+    width: 400px;
+  }
+}
+// 小于1599px平板
+@media screen and (max-width: 1599px) {
+  .support-l-c,
+  .support-r-c {
+    width: 100%;
+  }
+  .support-r-c {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}
+
+// 小于600px手机
+@media screen and (max-width: 600px) {
+  .support-l-c,
+  .support-r-c {
+    width: 100%;
+  }
+  .support-r-c {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}

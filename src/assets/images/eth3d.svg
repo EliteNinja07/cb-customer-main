@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 94.3 164.8" style="enable-background:new 0 0 94.3 164.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#88D3FF;}
+	.st2{fill:url(#SVGID_00000030456491872016371230000004122549514194539199_);}
+	.st3{fill:#1D4BE3;}
+	.st4{fill:none;stroke:#234DE1;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="27.6302" y1="16.9923" x2="32.0207" y2="81.081">
+	<stop  offset="0" style="stop-color:#4EB8FC"/>
+	<stop  offset="1" style="stop-color:#3D73F6"/>
+</linearGradient>
+<polygon class="st0" points="37.4,0 0,87.6 64.2,77.5 "/>
+<polygon class="st1" points="94.3,76.5 64.2,77.5 37.4,0 "/>
+<linearGradient id="SVGID_00000169557234530592765470000001330322321813887908_" gradientUnits="userSpaceOnUse" x1="77.4342" y1="74.5901" x2="76.7986" y2="158.8529">
+	<stop  offset="0" style="stop-color:#58A5FC"/>
+	<stop  offset="1" style="stop-color:#3D73F6"/>
+</linearGradient>
+<polygon style="fill:url(#SVGID_00000169557234530592765470000001330322321813887908_);" points="59.9,164.8 64.2,77.5 94.3,76.5 
+	"/>
+<polygon class="st3" points="0,87.6 64.2,77.5 59.9,164.8 "/>
+<polyline class="st4" points="37.4,0 64.2,77.5 59.9,164.8 "/>
+<polyline class="st4" points="0,87.6 64.2,77.5 94.3,76.5 "/>
+</svg>

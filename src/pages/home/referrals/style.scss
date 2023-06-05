@@ -1,0 +1,105 @@
+.card_items_c {
+  position: relative;
+  &:before {
+    position: absolute;
+    left: 92px;
+    top: -1px;
+    content: "";
+    width: 16px;
+    height: 8px;
+    border-radius: 0 0 100px 100px;
+    // background: #f8fafe;
+    z-index: 10;
+    border-top: none !important;
+  }
+  &:after {
+    position: absolute;
+    bottom: -1px;
+    left: 92px;
+    content: "";
+    width: 16px;
+    height: 8px;
+    border-radius: 100px 100px 0 0;
+    // background: #f8fafe;
+    z-index: 10;
+    border-bottom: none !important;
+  }
+}
+tbody {
+  tr {
+    td {
+      padding-bottom: 1rem;
+    }
+    &:last-child {
+      td {
+        border: none;
+      }
+    }
+  }
+}
+
+.referrals-l-c {
+  width: calc(100% - 474px);
+}
+.referrals-r-c {
+  width: 450px;
+  margin-left: 24px;
+}
+
+// 最小1600px平板
+@media screen and (min-width: 1600px) {
+  .referrals-l-c {
+    width: calc(100% - 424px);
+  }
+  .referrals-r-c {
+    width: 400px;
+    margin-left: 24px;
+  }
+}
+
+// 小于1600spx平板
+@media screen and (max-width: 1600px) {
+  .referrals-l-c,
+  .referrals-r-c {
+    width: 100%;
+  }
+  .referrals-r-c {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}
+
+// 小于768px手机
+@media screen and (max-width: 768px) {
+  .referrals-l-c,
+  .referrals-r-c {
+    width: 100%;
+  }
+  .referrals-l-c {
+    order: 2;
+  }
+  .referrals-r-c {
+    order: 1;
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .re-divider-c {
+    width: 1px;
+    margin-right: 50%;
+    border-left: 1px dashed #89909e33;
+    height: 100%;
+  }
+  .card_items_c {
+    &:before {
+      display: none;
+    }
+    &:after {
+      display: none;
+    }
+    .card-icon-c {
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
